@@ -30,7 +30,7 @@ Currently, I'm focused on strengthening my frontend skills and moving toward ful
 ### 💻 Languages
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,github&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts&theme=light)
 
 
 ### ⚛️ Frontend
