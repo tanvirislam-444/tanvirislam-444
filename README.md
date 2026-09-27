@@ -62,15 +62,15 @@ Currently, I'm focused on strengthening my frontend skills and moving toward ful
 <p align="left">
 
 <a href="https://www.linkedin.com/in/tanvir-islam-rinku-ab86ab426/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" />
 </a>
 
 <a href="https://discord.gg/GhEJaxfQrS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" width="45" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="45" />
 </a>
 
 <a href="https://www.facebook.com/tanvir.islam.948451" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="45" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tnvr6382@gmail.com" target="_blank">
