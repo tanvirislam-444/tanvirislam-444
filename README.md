@@ -5,11 +5,6 @@
 I'm passionate about building modern, responsive, and user-friendly web applications.  
 Currently, I'm focused on strengthening my frontend skills and moving toward full-stack development.
 
-- 🌱 Currently learning **React, Next.js, TypeScript & Full-Stack Development**
-- 💻 Building real-world projects to improve my development skills
-- 🚀 Interested in creating clean, responsive, and scalable web applications
-- 📚 Continuously learning modern web technologies and best practices
-- 🤝 Open to collaborating on interesting web development projects
 
 ---
 
