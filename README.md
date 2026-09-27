@@ -30,7 +30,7 @@ Currently, I'm focused on strengthening my frontend skills and moving toward ful
 ### 💻 Languages
 
 <p>
-(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+https://skillicons.dev/icons?i=js,html,css,wasm
 </p>
 
 ### ⚛️ Frontend
