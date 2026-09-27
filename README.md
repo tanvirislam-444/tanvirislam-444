@@ -29,21 +29,20 @@ Currently, I'm focused on strengthening my frontend skills and moving toward ful
 
 ### 💻 Languages
 
-<p>
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,github&theme=light)
-</p>
+
 
 ### ⚛️ Frontend
 
-<p>
+
 ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,daisyui,vite&theme=light)
-</p>
 
 ### 🧰 Tools & Platforms
 
-<p>
+
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,vercel,netlify&theme=light)
-</p>
+
 
 ---
 
