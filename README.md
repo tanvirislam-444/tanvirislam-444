@@ -36,12 +36,12 @@ Currently, I'm focused on strengthening my frontend skills and moving toward ful
 ### ⚛️ Frontend
 
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,daisyui,vite&theme=light)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,daisyui,vite&theme=dark&perline=5)
 
 ### 🧰 Tools & Platforms
 
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,vercel,netlify&theme=light)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,vercel,netlify&theme=dark&perline=5)
 
 
 ---
@@ -66,7 +66,7 @@ Currently, I'm focused on strengthening my frontend skills and moving toward ful
 </a>
 
 <a href="https://discord.gg/GhEJaxfQrS" target="_blank">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="45" />
+  <img src="https://skillicons.dev/icons?i=discord" width="45" />
 </a>
 
 <a href="https://www.facebook.com/tanvir.islam.948451" target="_blank">
